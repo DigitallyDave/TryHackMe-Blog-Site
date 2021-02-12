@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+David Hernandez, a young student who is majoring in computer science and is working towards security and becoming a penetration tester. Even though he has very little experience or knowledge, he is open to all new information and excited to learn!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[DaveDahWinner@gmail.com](mailto:DaveDahWinner@gmail.com)
