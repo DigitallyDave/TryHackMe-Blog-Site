@@ -9,7 +9,7 @@ name: Digitally Dave
 description: David Hernandez, a student majoring in computer science, working towards security as a penetration tester. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: C:\Users\DaveD\Downloads\Untitled design.jpg
+avatar: 
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: DigitallyDave/CSCI-18-DH
+  github: DigitallyDave/DigitallyDave.github.io
   instagram:
   linkedin:
   pinterest:
@@ -47,7 +47,7 @@ url: http://DigitallyDave.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/CSCI-18-DH"
+baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
